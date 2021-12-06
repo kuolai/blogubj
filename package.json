@@ -4,5 +4,8 @@
     "postcss": "^8.4.3",
     "postcss-cli": "^9.0.2",
     "tailwindcss": "^2.2.19"
+  },
+  "dependencies": {
+    "@tailwindcss/typography": "^0.4.1"
   }
 }
